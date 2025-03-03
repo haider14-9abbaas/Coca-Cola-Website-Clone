@@ -1,6 +1,6 @@
 # Coca-Cola Modern Website
 
-![Coca-Cola Logo](https://www.coca-colacompany.com/content/dam/journey/us/en/private/logo-cc.svg)
+![Coca-Cola Logo](https://images.app.goo.gl/jcuEVzoHepVsCHpi9)
 
 A modern, responsive website for Coca-Cola built using HTML, CSS, and JavaScript.
 
