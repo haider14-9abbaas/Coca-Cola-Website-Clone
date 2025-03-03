@@ -47,27 +47,14 @@ A modern, responsive website for Coca-Cola built using HTML, CSS, and JavaScript
 ## Live Demo
 
 Project Structure
-Copy
+
 coca-cola-website/
+
 ├── index.html          # Main HTML file
 ├── style.css           # Main stylesheet
 ├── script.js           # Main JavaScript file
 ├── README.md           # Project documentation
 
-Contributing
-Contributions are welcome! Please follow these steps:
-
-Fork the project
-
-Create your feature branch (git checkout -b feature/AmazingFeature)
-
-Commit your changes (git commit -m 'Add some AmazingFeature')
-
-Push to the branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
-
-Please make sure to update tests as appropriate.
 
 - **License**:
 This project is licensed under the MIT License - see the LICENSE file for details.
