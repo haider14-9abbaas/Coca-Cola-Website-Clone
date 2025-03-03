@@ -58,18 +58,19 @@ coca-cola-website/
 ├── README.md           # Project documentation
 
 
-- **License**:
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-- **Acknowledgments**:
+##Acknowledgments
 - Coca-Cola Company for brand inspiration
 - Unsplash for placeholder images
 - Flaticon for social media icons
 - Google Fonts for typography
 
-- **Developed by Syed Haider Abbas Zaidi**  
+  ## Developed by **Syed Haider Abbas Zaidi**  
 - [GitHub](https://github.com/haider14-9abbaas)
 - [LinkedIn](https://www.linkedin.com/in/syed-haider-abbas-zaidi-132525215/)
 
-- **Disclaimer**:: This project is for educational purposes only and is not affiliated with or endorsed by The Coca-Cola Company.
+  ##Disclaimer
+  This project is for educational purposes only and is not affiliated with or endorsed by The Coca-Cola Company.
 
