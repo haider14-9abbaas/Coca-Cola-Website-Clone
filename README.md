@@ -8,13 +8,14 @@ A modern, responsive website for Coca-Cola built using HTML, CSS, and JavaScript
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
+- [Live Demo](#livedemo)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 - [Developer](#developer)
+
 
 ## Features
 
@@ -45,6 +46,7 @@ A modern, responsive website for Coca-Cola built using HTML, CSS, and JavaScript
   - CSS Animations
 
 ## Live Demo
+- [Live Demo](https://haider14-9abbaas.github.io/Coca-Cola-Website-Clone/)
 
 Project Structure
 
